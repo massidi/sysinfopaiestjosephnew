@@ -1,0 +1,9 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Cumul		NFI		nouveau fichier
+Cumul		FRN		
+Cumul	numsesomo	RRN		
+Cumul	IDAgent	RRN		
+Cumul	nom	RRN		
+Cumul	cuminss	RRN		
+Cumul	cummassesal	RRN		
+Cumul	NumPaie	RRN		

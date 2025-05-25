@@ -1,0 +1,6 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+InvitPrint		NFI		nouveau fichier
+InvitPrint		FRN		
+InvitPrint	numsesomo	RRN		
+InvitPrint	DESIGNATION	RRN		
+InvitPrint	NumPaie	RRN		

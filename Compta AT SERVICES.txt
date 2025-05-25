@@ -1,0 +1,113 @@
+1,020114,EPC USD,4111715,,"Facture N° FC1430 ORACLE SPRL                               ","FC1430",    417.60,D,020114,USD
+2,020114,EPC USD,7062,,"Facture N° FC1430 ORACLE SPRL                               ","FC1430",    360.00,C,100214,USD
+3,020114,EPC USD,4432,,"Facture N° FC1430 ORACLE SPRL                               ","FC1430",     57.60,C,100214,USD
+4,020114,EPC USD,4111715,,"Facture N° FC1431 ORACLE SPRL                               ","FC1431",    139.20,D,020114,USD
+5,020114,EPC USD,7062,,"Facture N° FC1431 ORACLE SPRL                               ","FC1431",    120.00,C,100214,USD
+6,020114,EPC USD,4432,,"Facture N° FC1431 ORACLE SPRL                               ","FC1431",     19.20,C,100214,USD
+7,030114,EPC USD,4111715,,"Facture N° FC1432 ZHAO ZONG                                 ","FC1432",     69.60,D,030114,USD
+8,030114,EPC USD,7062,,"Facture N° FC1432 ZHAO ZONG                                 ","FC1432",     60.00,C,100214,USD
+9,030114,EPC USD,4432,,"Facture N° FC1432 ZHAO ZONG                                 ","FC1432",      9.60,C,100214,USD
+10,060114,EPC USD,4111715,,"Facture N° FC1433 MARTIN LUTHER                             ","FC1433",    349.04,D,060114,USD
+11,060114,EPC USD,7062,,"Facture N° FC1433 MARTIN LUTHER                             ","FC1433",    300.90,C,100214,USD
+12,060114,EPC USD,4432,,"Facture N° FC1433 MARTIN LUTHER                             ","FC1433",     48.14,C,100214,USD
+13,060114,EPC USD,4111715,,"Facture N° FC1434 SODIMAT                                   ","FC1434",     90.80,D,060114,USD
+14,060114,EPC USD,7062,,"Facture N° FC1434 SODIMAT                                   ","FC1434",     78.28,C,100214,USD
+15,060114,EPC USD,4432,,"Facture N° FC1434 SODIMAT                                   ","FC1434",     12.52,C,100214,USD
+16,060114,EPC USD,4111715,,"Facture N° FC1435 MAMBU                                     ","FC1435",    255.20,D,060114,USD
+17,060114,EPC USD,7062,,"Facture N° FC1435 MAMBU                                     ","FC1435",    220.00,C,100214,USD
+18,060114,EPC USD,4432,"Facture N° FC1435 MAMBU                                     ","FC1435",     35.20,C,100214,USD
+19,070114,EPC USD,4111715,,"Facture N° FC1436 ORACLE SPRL                               ","FC1436",    127.60,D,070114,USD
+20,070114,EPC USD,7062,,"Facture N° FC1436 ORACLE SPRL                               ","FC1436",    110.00,C,100214,USD
+21,070114,EPC USD,4432,,"Facture N° FC1436 ORACLE SPRL                               ","FC1436",     17.60,C,100214,USD
+22,070114,EPC USD,4111715,,"Facture N° FC1437 RUMEX                                     ","FC1437",     79.39,D,070114,USD
+23,070114,EPC USD,7062,,"Facture N° FC1437 RUMEX                                     ","FC1437",     68.44,C,100214,USD
+24,070114,EPC USD,4432,,"Facture N° FC1437 RUMEX                                     ","FC1437",     10.95,C,100214,USD
+25,080114,EPC USD,4111715,,"Facture N° FC1438 MOPANI INTER                              ","FC1438",     38.19,D,080114,USD
+26,080114,EPC USD,7062,,"Facture N° FC1438 MOPANI INTER                              ","FC1438",     32.92,C,100214,USD
+27,080114,EPC USD,4432,,"Facture N° FC1438 MOPANI INTER                              ","FC1438",      5.27,C,100214,USD
+28,080114,EPC USD,4111715,,"Facture N° FC1439 LE PALAIS                                 ","FC1439",    115.40,D,080114,USD
+29,080114,EPC USD,7062,,"Facture N° FC1439 LE PALAIS                                 ","FC1439",     99.48,C,100214,USD
+30,080114,EPC USD,4432,,"Facture N° FC1439 LE PALAIS                                 ","FC1439",     15.92,C,100214,USD
+31,080114,EPC USD,4111715,,"Facture N° FC1440 M-INTERCOM                                ","FC1440",     43.15,D,080114,USD
+32,080114,EPC USD,7062,,"Facture N° FC1440 M-INTERCOM                                ","FC1440",     37.20,C,100214,USD
+33,080114,EPC USD,4432,,"Facture N° FC1440 M-INTERCOM                                ","FC1440",      5.95,C,100214,USD
+34,080114,EPC USD,4111715,,"Facture N° FC1441 UGOCHUKWU                                 ","FC1441",     32.89,D,080114,USD
+35,080114,EPC USD,7062,,"Facture N° FC1441 UGOCHUKWU                                 ","FC1441",     28.35,C,100214,USD
+36,080114,EPC USD,4432,,"Facture N° FC1441 UGOCHUKWU                                 ","FC1441",      4.54,C,100214,USD
+37,080114,EPC USD,4111715,,"Facture N° FC1442 LUVUEZO NSILU                             ","FC1442",    127.60,D,080114,USD
+38,080114,EPC USD,7062,,"Facture N° FC1442 LUVUEZO NSILU                             ","FC1442",    110.00,C,100214,USD
+39,080114,EPC USD,4432,,"Facture N° FC1442 LUVUEZO NSILU                             ","FC1442",     17.60,C,100214,USD
+40,080114,EPC USD,4111715,,"Facture N° FC1443 DIMANDJA                                  ","FC1443",    255.20,D,080114,USD
+41,080114,EPC USD,7062,,"Facture N° FC1443 DIMANDJA                                  ","FC1443",    220.00,C,100214,USD
+42,080114,EPC USD,4432,,"Facture N° FC1443 DIMANDJA                                  ","FC1443",     35.20,C,100214,USD
+43,080114,EPC USD,4111715,,"Facture N° FC1444 NGOYI  MWAMBA                             ","FC1444",     69.60,D,080114,USD
+44,080114,EPC USD,7062,,"Facture N° FC1444 NGOYI  MWAMBA                             ","FC1444",     60.00,C,100214,USD
+45,080114,EPC USD,4432,,"Facture N° FC1444 NGOYI  MWAMBA                             ","FC1444",      9.60,C,100214,USD
+46,080114,EPC USD,4111715,,"Facture N° FC1445 NGOYI  MWAMBA                             ","FC1445",    127.60,D,080114,USD
+47,080114,EPC USD,7062,,"Facture N° FC1445 NGOYI  MWAMBA                             ","FC1445",    110.00,C,100214,USD
+48,080114,EPC USD,4432,,"Facture N° FC1445 NGOYI  MWAMBA                             ","FC1445",     17.60,C,100214,USD
+49,080114,EPC USD,4111715,,"Facture N° FC1446 ANGELA                                    ","FC1446",     31.49,D,080114,USD
+50,080114,EPC USD,7062,,"Facture N° FC1446 ANGELA                                    ","FC1446",     27.15,C,100214,USD
+51,080114,EPC USD,4432,,"Facture N° FC1446 ANGELA                                    ","FC1446",      4.34,C,100214,USD
+52,080114,EPC USD,4111715,,"Facture N° FC1447 MBAMALU                                   ","FC1447",    286.93,D,080114,USD
+53,080114,EPC USD,7062,,"Facture N° FC1447 MBAMALU                                   ","FC1447",    247.35,C,100214,USD
+54,080114,EPC USD,4432,,"Facture N° FC1447 MBAMALU                                   ","FC1447",     39.58,C,100214,USD
+55,100114,EPC USD,4111715,,"Facture N° FC1448 LINENGI                                   ","FC1448",     69.60,D,100114,USD
+56,100114,EPC USD,7062,,"Facture N° FC1448 LINENGI                                   ","FC1448",     60.00,C,100214,USD
+57,100114,EPC USD,4432,,"Facture N° FC1448 LINENGI                                   ","FC1448",      9.60,C,100214,USD
+58,140114,EPC USD,4111715,,"Facture N° FC1449 ABAS ATUBUNA                              ","FC1449",     69.60,D,140114,USD
+59,140114,EPC USD,7062,,"Facture N° FC1449 ABAS ATUBUNA                              ","FC1449",     60.00,C,100214,USD
+60,140114,EPC USD,4432,,"Facture N° FC1449 ABAS ATUBUNA                              ","FC1449",      9.60,C,100214,USD
+61,160114,EPC USD,4111715,,"Facture N° FC1450 ORACLE SPRL                               ","FC1450",    127.60,D,160114,USD
+62,160114,EPC USD,7062,,"Facture N° FC1450 ORACLE SPRL                               ","FC1450",    110.00,C,100214,USD
+63,160114,EPC USD,4432,,"Facture N° FC1450 ORACLE SPRL                               ","FC1450",     17.60,C,100214,USD
+64,160114,EPC USD,4111715,,"Facture N° FC1451 LUVUEZO NSILU                             ","FC1451",    127.60,D,160114,USD
+65,160114,EPC USD,7062,,"Facture N° FC1451 LUVUEZO NSILU                             ","FC1451",    110.00,C,100214,USD
+66,160114,EPC USD,4432,,"Facture N° FC1451 LUVUEZO NSILU                             ","FC1451",     17.60,C,100214,USD
+67,200114,EPC USD,4111715,,"Facture N° FC1452 FARANSUA                                  ","FC1452",    127.60,D,200114,USD
+68,200114,EPC USD,7062,,"Facture N° FC1452 FARANSUA                                  ","FC1452",    110.00,C,100214,USD
+69,200114,EPC USD,4432,,"Facture N° FC1452 FARANSUA                                  ","FC1452",     17.60,C,100214,USD
+70,200114,EPC USD,4111715,,"Facture N° FC1453 MESO BASILWA                              ","FC1453",     58.00,D,200114,USD
+71,200114,EPC USD,7062,,"Facture N° FC1453 MESO BASILWA                              ","FC1453",     50.00,C,100214,USD
+72,200114,EPC USD,4432,,"Facture N° FC1453 MESO BASILWA                              ","FC1453",      8.00,C,100214,USD
+73,200114,EPC USD,4111715,,"Facture N° FC1454 ITAL MOTORS                               ","FC1454",    791.32,D,200114,USD
+74,200114,EPC USD,7062,,"Facture N° FC1454 ITAL MOTORS                               ","FC1454",    791.32,C,100214,USD
+75,210114,EPC USD,4111715,,"Facture N° FC1455 ORACLE SPRL                               ","FC1455",    765.60,D,210114,USD
+76,210114,EPC USD,7062,,"Facture N° FC1455 ORACLE SPRL                               ","FC1455",    660.00,C,100214,USD
+77,210114,EPC USD,4432,,"Facture N° FC1455 ORACLE SPRL                               ","FC1455",    105.60,C,100214,USD
+78,210114,EPC USD,4111715,,"Facture N° FC1456 XL MEDIA SPRL                             ","FC1456",     61.57,D,210114,USD
+79,210114,EPC USD,7062,,"Facture N° FC1456 XL MEDIA SPRL                             ","FC1456",     53.08,C,100214,USD
+80,210114,EPC USD,4432,,"Facture N° FC1456 XL MEDIA SPRL                             ","FC1456",      8.49,C,100214,USD
+81,220114,EPC USD,4111715,,"Facture N° FC1457 LUKADI LINA                               ","FC1457",    165.13,D,220114,USD
+82,220114,EPC USD,7062,,"Facture N° FC1457 LUKADI LINA                               ","FC1457",    142.35,C,100214,USD
+83,220114,EPC USD,4432,,"Facture N° FC1457 LUKADI LINA                               ","FC1457",     22.78,C,100214,USD
+84,220114,EPC USD,4111715,,"Facture N° FC1458 MICHEL                                    ","FC1458",    192.10,D,220114,USD
+85,220114,EPC USD,7062,,"Facture N° FC1458 MICHEL                                    ","FC1458",    165.60,C,100214,USD
+86,220114,EPC USD,4432,,"Facture N° FC1458 MICHEL                                    ","FC1458",     26.50,C,100214,USD
+87,240114,EPC USD,4111715,,"Facture N° FC1459 ZATULE APO                                ","FC1459",    127.60,D,240114,USD
+88,240114,EPC USD,7062,,"Facture N° FC1459 ZATULE APO                                ","FC1459",    110.00,C,100214,USD
+89,240114,EPC USD,4432,,"Facture N° FC1459 ZATULE APO                                ","FC1459",     17.60,C,100214,USD
+90,240114,EPC USD,4111715,,"Facture N° FC1460 MUANDA MUANDA                             ","FC1460",    127.60,D,240114,USD
+91,240114,EPC USD,7062,,"Facture N° FC1460 MUANDA MUANDA                             ","FC1460",    110.00,C,100214,USD
+92,240114,EPC USD,4432,,"Facture N° FC1460 MUANDA MUANDA                             ","FC1460",     17.60,C,100214,USD
+93,270114,EPC USD,4111715,,"Facture N° FC1461 MARTIN LUTHER                             ","FC1461",    831.16,D,270114,USD
+94,270114,EPC USD,7062,,"Facture N° FC1461 MARTIN LUTHER                             ","FC1461",    716.52,C,100214,USD
+95,270114,EPC USD,4432,,"Facture N° FC1461 MARTIN LUTHER                             ","FC1461",    114.64,C,100214,USD
+96,290114,EPC USD,41808,,"Facture N° FC1462 TOTAL - RDC                               ","FC1462",     55.59,D,290114,USD
+97,290114,EPC USD,7062,,"Facture N° FC1462 TOTAL - RDC                               ","FC1462",     47.92,C,100214,USD
+98,290114,EPC USD,4432,,"Facture N° FC1462 TOTAL - RDC                               ","FC1462",      7.67,C,100214,USD
+99,290114,EPC USD,4111715,,"Facture N° FC1463 NAC                                       ","FC1463",     33.96,D,290114,USD
+100,290114,EPC USD,7062,,"Facture N° FC1463 NAC                                       ","FC1463",     29.28,C,100214,USD
+101,290114,EPC USD,4432,,"Facture N° FC1463 NAC                                       ","FC1463",      4.68,C,100214,USD
+102,290114,EPC USD,4111715,,"Facture N° FC1464 MICHEL TSHIKALA                           ","FC1464",     71.69,D,290114,USD
+103,290114,EPC USD,7062,,"Facture N° FC1464 MICHEL TSHIKALA                           ","FC1464",     61.80,C,100214,USD
+104,290114,EPC USD,4432,,"Facture N° FC1464 MICHEL TSHIKALA                           ","FC1464",      9.89,C,100214,USD
+105,310114,EPC USD,4111715,,"Facture N° FC1465 MUANDA BAZONGA                            ","FC1465",     69.60,D,310114,USD
+106,310114,EPC USD,7062,,"Facture N° FC1465 MUANDA BAZONGA                            ","FC1465",     60.00,C,100214,USD
+107,310114,EPC USD,4432,,"Facture N° FC1465 MUANDA BAZONGA                            ","FC1465",      9.60,C,100214,USD
+108,310114,EPC USD,4111715,,"Facture N° FC1466 MARTIN LUTHER                             ","FC1466",    986.42,D,310114,USD
+109,310114,EPC USD,7062,,"Facture N° FC1466 MARTIN LUTHER                             ","FC1466",    850.36,C,100214,USD
+110,310114,EPC USD,4432,,"Facture N° FC1466 MARTIN LUTHER                             ","FC1466",    136.06,C,100214,USD
+111,310114,EPC USD,4111715,,"Facture N° FC1467 MAYULU THEOPHILE                          ","FC1467",     69.60,D,310114,USD
+112,310114,EPC USD,7062,,"Facture N° FC1467 MAYULU THEOPHILE                          ","FC1467",     60.00,C,100214,USD
+113,310114,EPC USD,4432,,"Facture N° FC1467 MAYULU THEOPHILE                          ","FC1467",      9.60,C,100214,USD

@@ -1,0 +1,10 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+FCOMPTAPAIE		FIC-	Fcodesal	Fichier supprimé Fcodesal
+FCOMPTAPAIE		FIC-	Fcoderet	Fichier supprimé Fcoderet
+FCOMPTAPAIE		FIC-	Fcodeprimen	Fichier supprimé Fcodeprimen
+FCOMPTAPAIE		FIC-	Fcodeprimei	Fichier supprimé Fcodeprimei
+FCOMPTAPAIE		FIC-	Fcodelog	Fichier supprimé Fcodelog
+FCOMPTAPAIE		FIC-	FcodeHsupl	Fichier supprimé FcodeHsupl
+FCOMPTAPAIE		FIC-	Fcodeacpte	Fichier supprimé Fcodeacpte
+FCOMPTAPAIE		FIC-	Fcodepret	Fichier supprimé Fcodepret
+FCOMPTAPAIE		FIC-	Fcodetr	Fichier supprimé Fcodetr

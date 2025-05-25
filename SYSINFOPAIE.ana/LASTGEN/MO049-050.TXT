@@ -1,0 +1,7 @@
+//MO049-050.TXT ANA00049 TO ANA00050
+Facomptes		NFI		nouveau fichier
+Facomptes		FRN		
+Facomptes	numaff	RRN		
+Facomptes	nom	RRN		
+Facomptes	Montant	RRN		
+Facomptes	IDAgent	RRN		

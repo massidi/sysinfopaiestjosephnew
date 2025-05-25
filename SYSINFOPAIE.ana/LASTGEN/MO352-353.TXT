@@ -1,0 +1,4 @@
+//MO352-353.TXT ANA00352 TO ANA00353
+FJOURCONGEMATRICULE		TAR	100	nouvelle taille enregistrement : 100
+FJOURCONGEMATRICULE	Codepaie	RUB+		Codepaie est une nouvelle rubrique
+FJOURCONGEMATRICULE	Nbrejourcge	RUB+		Nbrejourcge est une nouvelle rubrique

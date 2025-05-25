@@ -1,0 +1,4 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+Fuser		NFI		nouveau fichier
+Connexion au serveur Massidi-PC, base DBSYSINFOCOMPTA		CNX+		
+Fuser		FRN		

@@ -1,0 +1,3 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+Fidentite		NFI		nouveau fichier
+Fidentite		FRN		

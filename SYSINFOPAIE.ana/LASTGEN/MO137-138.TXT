@@ -1,0 +1,2 @@
+//MO137-138.TXT ANA00137 TO ANA00138
+FBaremeSalarial	Autreprime	NNR	Autreprimes	ATTENTION : la rubrique Autreprimes a pour nouveau nom Autreprime

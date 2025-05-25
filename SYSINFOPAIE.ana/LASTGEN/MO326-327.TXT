@@ -1,0 +1,13 @@
+//MO326-327.TXT ANA00326 TO ANA00327
+FSATISTIQUEAGENT		TAR	310	nouvelle taille enregistrement : 310
+FSATISTIQUEAGENT	MontantNetapayer	RUB+		MontantNetapayer est une nouvelle rubrique
+FSATISTIQUEAGENT	MasseSal	RUB+		MasseSal est une nouvelle rubrique
+FSATISTIQUEAGENT	Montnonimpos	RUB+		Montnonimpos est une nouvelle rubrique
+FSATISTIQUEAGENT	MontantIER	RUB+		MontantIER est une nouvelle rubrique
+FSATISTIQUEAGENT	Annee	RUB+		Annee est une nouvelle rubrique
+FSATISTIQUEAGENT	MoisPaie	RUB+		MoisPaie est une nouvelle rubrique
+FSATISTIQUEAGENT	NumPaie	RUB+		NumPaie est une nouvelle clé
+FSATISTIQUEAGENT	MasseSal	RRN		
+FSATISTIQUEAGENT	Annee	RRN		
+FSATISTIQUEAGENT	MoisPaie	RRN		
+FSATISTIQUEAGENT	NumPaie	RRN		

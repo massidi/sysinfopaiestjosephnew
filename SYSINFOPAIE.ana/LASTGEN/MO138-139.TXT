@@ -1,0 +1,3 @@
+//MO138-139.TXT ANA00138 TO ANA00139
+FagentPaies		TAR	1465	nouvelle taille enregistrement : 1465
+FagentPaies	Nbreannee	RUB+		Nbreannee est une nouvelle rubrique

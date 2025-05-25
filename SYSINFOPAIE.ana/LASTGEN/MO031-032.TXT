@@ -1,0 +1,3 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+NumeroPaie		TAR	213	nouvelle taille enregistrement : 213
+NumeroPaie	Observation	RUB+		Observation est une nouvelle rubrique

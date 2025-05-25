@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+FCODIFICATIONSPAIE		TAR	169	nouvelle taille enregistrement : 169
+FCODIFICATIONSPAIE	NumPaie	RUB+		NumPaie est une nouvelle rubrique

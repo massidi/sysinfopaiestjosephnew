@@ -1,0 +1,4 @@
+//MO328-329.TXT ANA00328 TO ANA00329
+FSATISTIQUEAGENT		TAR	338	nouvelle taille enregistrement : 338
+FSATISTIQUEAGENT	nationalite	RUB+		nationalite est une nouvelle rubrique
+FSATISTIQUEAGENT	nationalite	RRN		

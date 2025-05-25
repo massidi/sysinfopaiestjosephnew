@@ -1,0 +1,3 @@
+//MO365-366.TXT ANA00365 TO ANA00366
+Felementpaies		TAR	907	nouvelle taille enregistrement : 907
+Felementpaies	cdepridevautre	RUB-		la rubrique cdepridevautre est supprimée

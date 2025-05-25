@@ -1,0 +1,3 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+Ffuseractivite		NFI		nouveau fichier
+Ffuseractivite		FRN		

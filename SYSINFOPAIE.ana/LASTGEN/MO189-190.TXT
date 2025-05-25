@@ -1,0 +1,3 @@
+//MO189-190.TXT ANA00189 TO ANA00190
+FCODIFICATIONPAIE	Numsocietes	RUB+		Numsocietes est une nouvelle rubrique
+FCODIFICATIONPAIE	Numsociete	RUB-		la rubrique Numsociete est supprimée

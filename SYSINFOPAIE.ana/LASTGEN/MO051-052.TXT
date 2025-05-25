@@ -1,0 +1,3 @@
+//MO051-052.TXT ANA00051 TO ANA00052
+Facomptes		TAR	669	nouvelle taille enregistrement : 669
+Facomptes	Banque	TAI-	15	la rubrique Banque a comme nouvelle taille 36 au lieu de 51

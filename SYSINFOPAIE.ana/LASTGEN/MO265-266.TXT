@@ -1,0 +1,3 @@
+//MO265-266.TXT ANA00265 TO ANA00266
+FEQUIPE		TAR	215	nouvelle taille enregistrement : 215
+FEQUIPE	Cdecommission	RUB+		Cdecommission est une nouvelle rubrique

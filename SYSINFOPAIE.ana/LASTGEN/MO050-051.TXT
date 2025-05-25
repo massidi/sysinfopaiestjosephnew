@@ -1,0 +1,23 @@
+//MO050-051.TXT ANA00050 TO ANA00051
+Facomptes		TAR	684	nouvelle taille enregistrement : 684
+Facomptes	fonctionAgent	RUB+		fonctionAgent est une nouvelle rubrique
+Facomptes	Departement	RUB+		Departement est une nouvelle clé
+Facomptes	numinss	RUB+		numinss est une nouvelle clé
+Facomptes	CatLeg	RUB+		CatLeg est une nouvelle rubrique
+Facomptes	CatProf	RUB+		CatProf est une nouvelle rubrique
+Facomptes	CatSoc	RUB+		CatSoc est une nouvelle rubrique
+Facomptes	datengag	RUB+		datengag est une nouvelle rubrique
+Facomptes	Cdebanque	RUB+		Cdebanque est une nouvelle rubrique
+Facomptes	Compte_banque	RUB+		Compte_banque est une nouvelle rubrique
+Facomptes	Localite	RUB+		Localite est une nouvelle clé
+Facomptes	CpteBancaire	RUB+		CpteBancaire est une nouvelle rubrique
+Facomptes	Banque	RUB+		Banque est une nouvelle clé
+Facomptes	fonctionAgent	RRN		
+Facomptes	Departement	RRN		
+Facomptes	numinss	RRN		
+Facomptes	CatLeg	RRN		
+Facomptes	CatProf	RRN		
+Facomptes	CatSoc	RRN		
+Facomptes	datengag	RRN		
+Facomptes	Localite	RRN		
+Facomptes	CpteBancaire	RRN		

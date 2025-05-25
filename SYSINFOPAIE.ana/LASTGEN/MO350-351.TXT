@@ -1,0 +1,6 @@
+//MO350-351.TXT ANA00350 TO ANA00351
+FJOURCONGEMATRICULE		TAR	95	nouvelle taille enregistrement : 95
+FJOURCONGEMATRICULE	NumPaie	RUB+		NumPaie est une nouvelle clé
+FJOURCONGEMATRICULE	Moisconge	RUB+		Moisconge est une nouvelle rubrique
+FJOURCONGEMATRICULE	Anneeconge	RUB+		Anneeconge est une nouvelle rubrique
+FJOURCONGEMATRICULE	NumPaie	RRN		

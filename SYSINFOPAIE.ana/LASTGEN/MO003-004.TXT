@@ -1,0 +1,7 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+MoisEnCours		NFI		nouveau fichier
+MoisEnCours		FRN		
+MoisEnCours	Mois	RRN		
+MoisEnCours	Annee	RRN		
+MoisEnCours	NbreJ	RRN		
+MoisEnCours	numsesomo	RRN		

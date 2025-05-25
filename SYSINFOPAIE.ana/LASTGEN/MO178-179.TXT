@@ -1,0 +1,5 @@
+//MO178-179.TXT ANA00178 TO ANA00179
+Fprimeretenu		NFI		nouveau fichier
+Fprimeretenu		FIC-	Fprimeretenu	Fichier supprimé Fprimeretenu
+Connexion au serveur Massidi-Pc, base BDQuitusPaie		CNX+		
+Fprimeretenu		FRN		
