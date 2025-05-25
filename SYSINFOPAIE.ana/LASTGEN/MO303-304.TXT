@@ -1,0 +1,7 @@
+//MO303-304.TXT ANA00303 TO ANA00304
+Ftracepaie		TAR	784	nouvelle taille enregistrement : 784
+Ftracepaie	Cumorganisme	RUB+		Cumorganisme est une nouvelle rubrique
+Ftracepaie	Oeuvresocial	RUB+		Oeuvresocial est une nouvelle rubrique
+Ftracepaie	Totalcharge	RUB+		Totalcharge est une nouvelle rubrique
+Ftracepaie	Taux_Oeuvredioc	RUB+		Taux_Oeuvredioc est une nouvelle rubrique
+Ftracepaie	Compteequipe	RUB+		Compteequipe est une nouvelle rubrique

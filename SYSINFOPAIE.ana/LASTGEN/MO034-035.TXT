@@ -1,0 +1,20 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Ftracepaie		NFI		nouveau fichier
+Ftracepaie		FRN		
+Ftracepaie	numsesomo	RRN		
+Ftracepaie	IDAgent	RRN		
+Ftracepaie	equipe	RRN		
+Ftracepaie	Departement	RRN		
+Ftracepaie	SalBase	RRN		
+Ftracepaie	Code	RRN		
+Ftracepaie	temps	RRN		
+Ftracepaie	Taux	RRN		
+Ftracepaie	MontantPayer	RRN		
+Ftracepaie	MontantRetenir	RRN		
+Ftracepaie	NetPayer	RRN		
+Ftracepaie	MasseSal	RRN		
+Ftracepaie	NetImpos	RRN		
+Ftracepaie	plafondInss	RRN		
+Ftracepaie	NumPaie	RRN		
+Ftracepaie	denom	RRN		
+Ftracepaie	numaff	RRN		

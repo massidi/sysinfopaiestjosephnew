@@ -1,0 +1,6 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+CheckTracePaie		NFI		nouveau fichier
+CheckTracePaie		FRN		
+CheckTracePaie	IDAgent	RRN		
+CheckTracePaie	numsesomo	RRN		
+CheckTracePaie	NumPaie	RRN		

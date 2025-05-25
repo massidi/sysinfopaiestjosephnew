@@ -1,0 +1,21 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+FSauvPointage		NFI		nouveau fichier
+FSauvPointage		FRN		
+FSauvPointage	IDPointage	RRN		
+FSauvPointage	JoursPrest	RRN		
+FSauvPointage	hs1	RRN		
+FSauvPointage	hs2	RRN		
+FSauvPointage	hs3	RRN		
+FSauvPointage	hs4	RRN		
+FSauvPointage	major1	RRN		
+FSauvPointage	major2	RRN		
+FSauvPointage	major3	RRN		
+FSauvPointage	major4	RRN		
+FSauvPointage	malade	RRN		
+FSauvPointage	ccirc	RRN		
+FSauvPointage	feries	RRN		
+FSauvPointage	cpayes	RRN		
+FSauvPointage	numsesomo	RRN		
+FSauvPointage	NumPaie	RRN		
+FSauvPointage	nom	RRN		
+FSauvPointage	JourTransp	RRN		

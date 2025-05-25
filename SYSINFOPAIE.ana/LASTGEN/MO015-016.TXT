@@ -1,0 +1,12 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+TracePaie		TAR	850	nouvelle taille enregistrement : 850
+TracePaie	Dateengagement	RUB+		Dateengagement est une nouvelle rubrique
+TracePaie	Codepaiement	RUB+		Codepaiement est une nouvelle rubrique
+TracePaie	Cptebancaire	RUB+		Cptebancaire est une nouvelle rubrique
+TracePaie	Localite	RUB+		Localite est une nouvelle rubrique
+TracePaie	FonctionAgents	RUB+		FonctionAgents est une nouvelle rubrique
+TracePaie	CatLeg	RUB+		CatLeg est une nouvelle rubrique
+TracePaie	CatProf	RUB+		CatProf est une nouvelle rubrique
+TracePaie	CatSoc	RUB+		CatSoc est une nouvelle rubrique
+TracePaie	Codeanaly	RUB+		Codeanaly est une nouvelle rubrique
+TracePaie	Codeclasse	RUB+		Codeclasse est une nouvelle rubrique

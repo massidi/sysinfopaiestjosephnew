@@ -1,0 +1,3 @@
+//MO353-354.TXT ANA00353 TO ANA00354
+FJOURCONGEMATRICULE		TAR	151	nouvelle taille enregistrement : 151
+FJOURCONGEMATRICULE	nomagent	RUB+		nomagent est une nouvelle rubrique

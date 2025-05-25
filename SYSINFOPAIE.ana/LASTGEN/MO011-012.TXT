@@ -1,0 +1,9 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Fparametre1		NFI		nouveau fichier
+Bpersonne1		NFI		nouveau fichier
+BAREMEIMPOT1		NFI		nouveau fichier
+Bpersonne1		FRN		
+Fparametre1		FRN		
+Fparametre1	Paramcodesoc	RRN		
+Fparametre1	Paramdesignation	RRN		
+Fparametre1	Parmier	RRN		

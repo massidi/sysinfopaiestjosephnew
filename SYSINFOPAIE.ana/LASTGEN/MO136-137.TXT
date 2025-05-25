@@ -1,0 +1,2 @@
+//MO136-137.TXT ANA00136 TO ANA00137
+FEQUIPE	NbreJR11	NNR	NbreJR1x	ATTENTION : la rubrique NbreJR1x a pour nouveau nom NbreJR11

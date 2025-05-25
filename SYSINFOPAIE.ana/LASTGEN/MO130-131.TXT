@@ -1,0 +1,12 @@
+//MO130-131.TXT ANA00130 TO ANA00131
+FEQUIPE		NFI		nouveau fichier
+FBaremeSalarial		NFI		nouveau fichier
+FSauvmouvementpaies		FIC-	FEQUIPE	Fichier supprimé FEQUIPE
+FSauvmouvementpaies		FIC-	FBaremeSalarial	Fichier supprimé FBaremeSalarial
+FBaremeSalarial		FRN		
+FEQUIPE		FRN		
+FBaremeSalarial	IDBaremeSalarial	RRN		
+FBaremeSalarial	numsesomo	RRN		
+FBaremeSalarial	CatLeg	RRN		
+FBaremeSalarial	Codebareme	RRN		
+FBaremeSalarial	Montant	RRN		

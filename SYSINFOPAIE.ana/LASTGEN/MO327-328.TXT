@@ -1,0 +1,3 @@
+//MO327-328.TXT ANA00327 TO ANA00328
+FSATISTIQUEAGENT		TAR	326	nouvelle taille enregistrement : 326
+FSATISTIQUEAGENT	Numeroaffeconomat	RUB+		Numeroaffeconomat est une nouvelle rubrique

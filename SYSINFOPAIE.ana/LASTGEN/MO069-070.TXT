@@ -1,0 +1,3 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+FSauvpointagepaies	IDFSauvpointagepaies	NNR	IDFpointagepaies	ATTENTION : la clé IDFpointagepaies a pour nouveau nom IDFSauvpointagepaies
+FSauvmouvementpaies	IDFSauvmouvementpaies	NNR	IDFmouvementpaies	ATTENTION : la clé IDFmouvementpaies a pour nouveau nom IDFSauvmouvementpaies

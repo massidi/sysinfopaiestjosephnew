@@ -1,0 +1,13 @@
+//MO359-360.TXT ANA00359 TO ANA00360
+Felementpaies		TAR	907	nouvelle taille enregistrement : 907
+Felementpaies	Cdepridevise	RUB+		Cdepridevise est une nouvelle rubrique
+Felementpaies	Cdepridevise1	RUB+		Cdepridevise1 est une nouvelle rubrique
+Felementpaies	Cdepridevis2	RUB+		Cdepridevis2 est une nouvelle rubrique
+Felementpaies	Cdepridevis3	RUB+		Cdepridevis3 est une nouvelle rubrique
+Felementpaies	Cdepridevis4	RUB+		Cdepridevis4 est une nouvelle rubrique
+Felementpaies	Cdepridevis5	RUB+		Cdepridevis5 est une nouvelle rubrique
+Felementpaies	Cdepridevis6	RUB+		Cdepridevis6 est une nouvelle rubrique
+Felementpaies	Cdepridevise7	RUB+		Cdepridevise7 est une nouvelle rubrique
+Felementpaies	Cdepridevise8	RUB+		Cdepridevise8 est une nouvelle rubrique
+Felementpaies	Cdepridevise9	RUB+		Cdepridevise9 est une nouvelle rubrique
+Felementpaies	Cdepridevise10	RUB+		Cdepridevise10 est une nouvelle rubrique

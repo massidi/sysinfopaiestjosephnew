@@ -1,0 +1,4 @@
+//MO048-049.TXT ANA00048 TO ANA00049
+NumeroPaie		TAR	222	nouvelle taille enregistrement : 222
+NumeroPaie	Codecloture	RUB+		Codecloture est une nouvelle rubrique
+NumeroPaie	dateclodure	RUB+		dateclodure est une nouvelle rubrique

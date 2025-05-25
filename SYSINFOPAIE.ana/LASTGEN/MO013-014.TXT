@@ -1,0 +1,19 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Fcodesal		NFI		nouveau fichier
+Fcoderet		NFI		nouveau fichier
+Fcodeprimen		NFI		nouveau fichier
+Fcodeprimei		NFI		nouveau fichier
+Fcodelog		NFI		nouveau fichier
+FcodeHsupl		NFI		nouveau fichier
+Fcodeacpte		NFI		nouveau fichier
+Fcodepret		NFI		nouveau fichier
+Fcodetr		NFI		nouveau fichier
+Fcodeacpte		FRN		
+FcodeHsupl		FRN		
+Fcodelog		FRN		
+Fcodeprimei		FRN		
+Fcodeprimen		FRN		
+Fcoderet		FRN		
+Fcodesal		FRN		
+Fcodetr		FRN		
+Fcodepret		FRN		

@@ -1,0 +1,26 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+FSauvpointagepaies		NFI		nouveau fichier
+FSauvmouvementpaies		NFI		nouveau fichier
+FSauvmouvementpaies		FRN		
+FSauvpointagepaies		FRN		
+FSauvmouvementpaies	IDAgent	RRN		
+FSauvmouvementpaies	NumPaie	RRN		
+FSauvmouvementpaies	Date	RRN		
+FSauvpointagepaies	JoursPrest	RRN		
+FSauvpointagepaies	hs1	RRN		
+FSauvpointagepaies	hs2	RRN		
+FSauvpointagepaies	hs3	RRN		
+FSauvpointagepaies	hs4	RRN		
+FSauvpointagepaies	major1	RRN		
+FSauvpointagepaies	major2	RRN		
+FSauvpointagepaies	major3	RRN		
+FSauvpointagepaies	major4	RRN		
+FSauvpointagepaies	malade	RRN		
+FSauvpointagepaies	ccirc	RRN		
+FSauvpointagepaies	feries	RRN		
+FSauvpointagepaies	cpayes	RRN		
+FSauvpointagepaies	JourTransp	RRN		
+FSauvpointagepaies	numsesomo	RRN		
+FSauvpointagepaies	NumPaie	RRN		
+FSauvpointagepaies	nom	RRN		
+FSauvpointagepaies	Préavis	RRN		

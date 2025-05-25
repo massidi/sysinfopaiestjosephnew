@@ -1,0 +1,12 @@
+//MO066-067.TXT ANA00066 TO ANA00067
+FcodeMAJnuitequipes		NFI		nouveau fichier
+FcodeMAJnuits		NFI		nouveau fichier
+FcodeMAJnuit		NFI		nouveau fichier
+FcodeHSequipes		NFI		nouveau fichier
+FcodeHSequipes		FRN		
+FcodeMAJnuit		FRN		
+FcodeMAJnuits		FRN		
+FcodeMAJnuitequipes		FRN		
+FcodeHSequipes	numsesomo	RRN		
+FcodeMAJnuits	numsesomo	RRN		
+FcodeMAJnuitequipes	numsesomo	RRN		

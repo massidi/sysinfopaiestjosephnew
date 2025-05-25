@@ -1,0 +1,3 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Fcodeacpte		TAR	84	nouvelle taille enregistrement : 84
+Fcodeacpte	Numsociete	RUB+		Numsociete est une nouvelle rubrique

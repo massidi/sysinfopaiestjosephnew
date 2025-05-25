@@ -1,0 +1,13 @@
+//MO366-367.TXT ANA00366 TO ANA00367
+Felementpaies		TAR	862	nouvelle taille enregistrement : 862
+Felementpaies	Cdepridevise	RUB-		la rubrique Cdepridevise est supprimée
+Felementpaies	Cdepridevise1	RUB-		la rubrique Cdepridevise1 est supprimée
+Felementpaies	Cdepridevis2	RUB-		la rubrique Cdepridevis2 est supprimée
+Felementpaies	Cdepridevis3	RUB-		la rubrique Cdepridevis3 est supprimée
+Felementpaies	Cdepridevis4	RUB-		la rubrique Cdepridevis4 est supprimée
+Felementpaies	Cdepridevis5	RUB-		la rubrique Cdepridevis5 est supprimée
+Felementpaies	Cdepridevis6	RUB-		la rubrique Cdepridevis6 est supprimée
+Felementpaies	Cdepridevise7	RUB-		la rubrique Cdepridevise7 est supprimée
+Felementpaies	Cdepridevise8	RUB-		la rubrique Cdepridevise8 est supprimée
+Felementpaies	Cdepridevise9	RUB-		la rubrique Cdepridevise9 est supprimée
+Felementpaies	Cdepridevise10	RUB-		la rubrique Cdepridevise10 est supprimée

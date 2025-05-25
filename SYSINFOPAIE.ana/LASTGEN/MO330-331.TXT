@@ -1,0 +1,3 @@
+//MO330-331.TXT ANA00330 TO ANA00331
+FSATISTIQUEAGENT	Numeropaie	RUB+		Numeropaie est une nouvelle rubrique
+FSATISTIQUEAGENT	NumPaie	RUB-		la clé NumPaie est supprimée

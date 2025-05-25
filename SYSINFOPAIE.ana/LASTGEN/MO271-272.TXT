@@ -1,0 +1,3 @@
+//MO271-272.TXT ANA00271 TO ANA00272
+Fpointagepaies		TAR	597	nouvelle taille enregistrement : 597
+Fpointagepaies	Nbre_presteferie	RUB+		Nbre_presteferie est une nouvelle rubrique
