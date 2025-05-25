@@ -1,3 +1,0 @@
-//MO057-058.TXT ANA00057 TO ANA00058
-Factivite		NFI		nouveau fichier
-Factivite		FRN		

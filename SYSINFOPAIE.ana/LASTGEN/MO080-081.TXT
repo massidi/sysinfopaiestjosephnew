@@ -1,3 +1,0 @@
-//MO080-081.TXT ANA00080 TO ANA00081
-FcodeImportation		NFI		nouveau fichier
-FcodeImportation		FRN		

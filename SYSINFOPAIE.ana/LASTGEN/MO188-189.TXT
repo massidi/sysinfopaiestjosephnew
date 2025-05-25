@@ -1,2 +1,0 @@
-//MO188-189.TXT ANA00188 TO ANA00189
-FCODIFICATIONPAIE	Numsociete	NNR	NUMSOC	ATTENTION : la rubrique NUMSOC a pour nouveau nom Numsociete

@@ -1,3 +1,0 @@
-//MO132-133.TXT ANA00132 TO ANA00133
-FEQUIPE	NbreJR1x	NNR	NbreJR1	ATTENTION : la rubrique NbreJR1 a pour nouveau nom NbreJR1x
-FBaremeSalarial	tauxmajx	NNR	tauxmaj	ATTENTION : la rubrique tauxmaj a pour nouveau nom tauxmajx

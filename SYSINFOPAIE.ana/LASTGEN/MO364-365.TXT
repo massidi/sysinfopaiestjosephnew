@@ -1,3 +1,0 @@
-//MO364-365.TXT ANA00364 TO ANA00365
-Felementpaies		TAR	911	nouvelle taille enregistrement : 911
-Felementpaies	cdepridevautre	RUB+		cdepridevautre est une nouvelle rubrique

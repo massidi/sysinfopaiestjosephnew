@@ -1,2 +1,0 @@
-//MO027-028.TXT ANA00027 TO ANA00028
-FagentPaies	CNUMESOMOMatriculSte	RUB+		CNUMESOMOMatriculSte est une nouvelle clé

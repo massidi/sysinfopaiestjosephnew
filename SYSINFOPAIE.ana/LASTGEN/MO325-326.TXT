@@ -1,3 +1,0 @@
-//MO325-326.TXT ANA00325 TO ANA00326
-FSATISTIQUEAGENT		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
-FSATISTIQUEAGENT		FCNX+	Connexion au serveur DELL-INFO-PC, base BDPAIESTJOSEPH	

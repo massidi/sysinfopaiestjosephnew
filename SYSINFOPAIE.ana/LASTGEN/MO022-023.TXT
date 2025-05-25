@@ -1,3 +1,0 @@
-//MO022-023.TXT ANA00022 TO ANA00023
-TauxPaie		TAR	122	nouvelle taille enregistrement : 122
-TauxPaie	NumPaie	RUB+		NumPaie est une nouvelle rubrique

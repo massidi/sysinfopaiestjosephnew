@@ -1,4 +1,0 @@
-//MO187-188.TXT ANA00187 TO ANA00188
-FCODIFICATIONPAIE		TAR	94	nouvelle taille enregistrement : 94
-FCODIFICATIONPAIE	NUMSOC	RUB+		NUMSOC est une nouvelle rubrique
-FCODIFICATIONPAIE	CodeReg	RUB+		CodeReg est une nouvelle rubrique

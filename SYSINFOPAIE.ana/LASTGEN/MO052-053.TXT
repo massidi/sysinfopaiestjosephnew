@@ -1,3 +1,0 @@
-//MO052-053.TXT ANA00052 TO ANA00053
-Facomptes		TAR	654	nouvelle taille enregistrement : 654
-Facomptes	CpteBancaire	TAI-	15	la rubrique CpteBancaire a comme nouvelle taille 36 au lieu de 51

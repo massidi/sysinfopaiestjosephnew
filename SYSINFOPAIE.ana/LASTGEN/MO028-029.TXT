@@ -1,3 +1,0 @@
-//MO028-029.TXT ANA00028 TO ANA00029
-NumeroPaie		TAR	162	nouvelle taille enregistrement : 162
-NumeroPaie	TauxPaie	RUB+		TauxPaie est une nouvelle rubrique

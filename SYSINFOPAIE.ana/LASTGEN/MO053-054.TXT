@@ -1,3 +1,0 @@
-//MO053-054.TXT ANA00053 TO ANA00054
-Fsociete		NFI		nouveau fichier
-Fsociete		FRN		

@@ -1,2 +1,0 @@
-//MO133-134.TXT ANA00133 TO ANA00134
-FBaremeSalarial	tauxmaj	NNR	tauxmajx	ATTENTION : la rubrique tauxmajx a pour nouveau nom tauxmaj

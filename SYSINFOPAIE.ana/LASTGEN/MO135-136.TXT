@@ -1,3 +1,0 @@
-//MO135-136.TXT ANA00135 TO ANA00136
-FEQUIPE	NbreJR1x	NNR	NbreJR1	ATTENTION : la rubrique NbreJR1 a pour nouveau nom NbreJR1x
-FBaremeSalarial	Autreprimes	NNR	Autreprime	ATTENTION : la rubrique Autreprime a pour nouveau nom Autreprimes

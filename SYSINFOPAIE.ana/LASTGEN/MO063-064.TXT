@@ -1,3 +1,0 @@
-//MO063-064.TXT ANA00063 TO ANA00064
-FEQUIPE		TAR	180	nouvelle taille enregistrement : 180
-FEQUIPE	designation	TAI+	15	la rubrique designation a comme nouvelle taille 51 au lieu de 36

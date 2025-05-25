@@ -1,4 +1,0 @@
-//MO030-031.TXT ANA00030 TO ANA00031
-TracePaie		TAR	901	nouvelle taille enregistrement : 901
-TracePaie	Ctragent	RUB+		Ctragent est une nouvelle rubrique
-TracePaie	Tempsret	RUB+		Tempsret est une nouvelle rubrique

@@ -1,2 +1,0 @@
-//MO016-017.TXT ANA00016 TO ANA00017
-TracePaie	Dateengagements	NNR	Dateengagement	ATTENTION : la rubrique Dateengagement a pour nouveau nom Dateengagements

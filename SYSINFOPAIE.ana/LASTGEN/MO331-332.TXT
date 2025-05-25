@@ -1,3 +1,0 @@
-//MO331-332.TXT ANA00331 TO ANA00332
-FSATISTIQUEAGENT		TAR	346	nouvelle taille enregistrement : 346
-FSATISTIQUEAGENT	mONTantCnsstrav	RUB+		mONTantCnsstrav est une nouvelle rubrique

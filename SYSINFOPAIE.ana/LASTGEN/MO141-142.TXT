@@ -1,3 +1,0 @@
-//MO141-142.TXT ANA00141 TO ANA00142
-FBaremeSalarial		TAR	343	nouvelle taille enregistrement : 343
-FBaremeSalarial	Tauxprime	RUB+		Tauxprime est une nouvelle rubrique

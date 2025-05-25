@@ -1,3 +1,0 @@
-//MO024-025.TXT ANA00024 TO ANA00025
-Fcodeanalytique	numaff	CLEN*		la rubrique numaff est maintenant une clé
-Fcodeanalytique	Codeeanalytique	CLEN*		la rubrique Codeeanalytique est maintenant une clé

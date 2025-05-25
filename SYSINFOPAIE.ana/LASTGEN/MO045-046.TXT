@@ -1,3 +1,0 @@
-//MO045-046.TXT ANA00045 TO ANA00046
-Ffcodesupl		NFI		nouveau fichier
-Ffcodesupl		FRN		

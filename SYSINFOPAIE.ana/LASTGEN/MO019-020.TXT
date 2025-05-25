@@ -1,7 +1,0 @@
-//MO019-020.TXT ANA00019 TO ANA00020
-FCOMPTA		TAR	263	nouvelle taille enregistrement : 263
-FCOMPTA	CODANALYTIQUE	TAI-	5	la rubrique CODANALYTIQUE a comme nouvelle taille 21 au lieu de 26
-FCOMPTA	COMPTE	TAI+	10	la rubrique COMPTE a comme nouvelle taille 21 au lieu de 11
-FCOMPTA	NUMPIECE	RUB+		NUMPIECE est une nouvelle rubrique
-FCOMPTA	Taux_echange	RUB+		Taux_echange est une nouvelle rubrique
-FCOMPTA	Codecashflow	RUB+		Codecashflow est une nouvelle rubrique

@@ -1,3 +1,0 @@
-//MO000-001.TXT ANA00000 TO ANA00001
-FNOM		NFI		nouveau fichier
-FNOM		FRN		

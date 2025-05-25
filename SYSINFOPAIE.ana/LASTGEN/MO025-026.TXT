@@ -1,2 +1,0 @@
-//MO025-026.TXT ANA00025 TO ANA00026
-Fcodeanalytique	numaffCodeeanalytique	RUB+		numaffCodeeanalytique est une nouvelle clé

@@ -1,5 +1,0 @@
-//MO284-285.TXT ANA00284 TO ANA00285
-FJOURCONGE		TAR	55	nouvelle taille enregistrement : 55
-FJOURCONGE	Datedebecge	RUB+		Datedebecge est une nouvelle rubrique
-FJOURCONGE	Datefincge	RUB+		Datefincge est une nouvelle rubrique
-FJOURCONGE	Datererisesvc	RUB+		Datererisesvc est une nouvelle rubrique

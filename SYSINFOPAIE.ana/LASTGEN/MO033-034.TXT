@@ -1,3 +1,0 @@
-//MO033-034.TXT ANA00033 TO ANA00034
-Faffilies		TAR	1289	nouvelle taille enregistrement : 1289
-Faffilies	CtrPaie	RUB-		la rubrique CtrPaie est supprimée

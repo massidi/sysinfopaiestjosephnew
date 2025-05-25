@@ -1,4 +1,0 @@
-//MO190-191.TXT ANA00190 TO ANA00191
-FCODIFICATIONPAIE		TAR	87	nouvelle taille enregistrement : 87
-FCODIFICATIONPAIE	CodeReg	RUB-		la rubrique CodeReg est supprimée
-FCODIFICATIONPAIE	Numsocietes	RUB-		la rubrique Numsocietes est supprimée

@@ -1,4 +1,0 @@
-//MO381-382.TXT ANA00381 TO ANA00382
-FJOURCONGE		TAR	59	nouvelle taille enregistrement : 59
-FJOURCONGE	Moisconge	RUB+		Moisconge est une nouvelle rubrique
-FJOURCONGE	Anneeconge	RUB+		Anneeconge est une nouvelle rubrique

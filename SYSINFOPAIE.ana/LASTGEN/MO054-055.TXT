@@ -1,3 +1,0 @@
-//MO054-055.TXT ANA00054 TO ANA00055
-Fsociete		TAR	617	nouvelle taille enregistrement : 617
-Fsociete	codeactivite	RUB+		codeactivite est une nouvelle rubrique

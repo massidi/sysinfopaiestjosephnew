@@ -1,4 +1,0 @@
-//MO167-168.TXT ANA00167 TO ANA00168
-Fparametre		TAR	269	nouvelle taille enregistrement : 269
-Fparametre	Mtpartdioc	RUB+		Mtpartdioc est une nouvelle rubrique
-Fparametre	Mttxeuropartdioc	RUB+		Mttxeuropartdioc est une nouvelle rubrique

@@ -1,3 +1,0 @@
-//MO044-045.TXT ANA00044 TO ANA00045
-FcodeHsupl		TAR	84	nouvelle taille enregistrement : 84
-FcodeHsupl	Numsociete	RUB+		Numsociete est une nouvelle rubrique

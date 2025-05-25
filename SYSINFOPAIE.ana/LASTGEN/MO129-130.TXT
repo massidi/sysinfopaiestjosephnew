@@ -1,9 +1,0 @@
-//MO129-130.TXT ANA00129 TO ANA00130
-		FIC-	FNOM	Fichier supprimé FNOM
-		FIC-	MOSALA$	Fichier supprimé MOSALA$
-		FIC-	COMPTAPAIE	Fichier supprimé COMPTAPAIE
-		FIC-	COMPTATIGO	Fichier supprimé COMPTATIGO
-		FIC-	FcodeMAJnuit	Fichier supprimé FcodeMAJnuit
-		FIC-	Fidentite	Fichier supprimé Fidentite
-		FIC-	Factivite	Fichier supprimé Factivite
-		FIC-	FcodeImportation	Fichier supprimé FcodeImportation

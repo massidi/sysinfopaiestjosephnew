@@ -1,3 +1,0 @@
-//MO072-073.TXT ANA00072 TO ANA00073
-Ftracepaie		TAR	745	nouvelle taille enregistrement : 745
-Ftracepaie	Codeagencebque	RUB+		Codeagencebque est une nouvelle rubrique
